@@ -1,0 +1,546 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+73_data
+</name>
+</assembly>
+<members>
+<member name="T:_73_data.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:_73_data.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:_73_data.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="P:_73_data.My.Resources.Resources.H_home">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:_73_data.My.Resources.Resources.H_medication">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:_73_data.My.Resources.Resources.H_patilent">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:_73_data.My.Resources.Resources.H_requisiton">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:_73_data.My.Resources.Resources.H_requisiton02222">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:_73_data.My.Resources.Resources.H_staff">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:_73_data.My.Resources.Resources.H_ward">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:_73_data.My.Resources.Resources.home">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:_73_data.My.Resources.Resources.medication">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:_73_data.My.Resources.Resources.partlient">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:_73_data.My.Resources.Resources.pt_icon">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:_73_data.My.Resources.Resources.requisitton">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:_73_data.My.Resources.Resources.search_pt">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:_73_data.My.Resources.Resources.search_reqi">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:_73_data.My.Resources.Resources.search_staff">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:_73_data.My.Resources.Resources.search_w">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:_73_data.My.Resources.Resources.searchmt">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:_73_data.My.Resources.Resources.searchward">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:_73_data.My.Resources.Resources.Sp">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:_73_data.My.Resources.Resources.staff">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:_73_data.My.Resources.Resources.suppilesff">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:_73_data.My.Resources.Resources.theWH">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:_73_data.My.Resources.Resources.ward">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="T:_73_data.dbpro73DataSet">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:_73_data.dbpro73DataSet.clinicDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:_73_data.dbpro73DataSet.IN_patientsDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:_73_data.dbpro73DataSet.medicationsDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:_73_data.dbpro73DataSet.patientsDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:_73_data.dbpro73DataSet.qualifacationDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:_73_data.dbpro73DataSet.requisitionsDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:_73_data.dbpro73DataSet.SearchDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:_73_data.dbpro73DataSet.shiftsDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:_73_data.dbpro73DataSet.staffsDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:_73_data.dbpro73DataSet.suppilersDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:_73_data.dbpro73DataSet.suppilesDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:_73_data.dbpro73DataSet.treatmentDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:_73_data.dbpro73DataSet.wardsDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:_73_data.dbpro73DataSet.workexpDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:_73_data.dbpro73DataSet.View_TMDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:_73_data.dbpro73DataSet.View_staffsSDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:_73_data.dbpro73DataSet.View_patientsSDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:_73_data.dbpro73DataSet.View_ShiftsDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:_73_data.dbpro73DataSet.clinicRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:_73_data.dbpro73DataSet.IN_patientsRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:_73_data.dbpro73DataSet.medicationsRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:_73_data.dbpro73DataSet.patientsRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:_73_data.dbpro73DataSet.qualifacationRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:_73_data.dbpro73DataSet.requisitionsRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:_73_data.dbpro73DataSet.SearchRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:_73_data.dbpro73DataSet.shiftsRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:_73_data.dbpro73DataSet.staffsRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:_73_data.dbpro73DataSet.suppilersRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:_73_data.dbpro73DataSet.suppilesRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:_73_data.dbpro73DataSet.treatmentRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:_73_data.dbpro73DataSet.wardsRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:_73_data.dbpro73DataSet.workexpRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:_73_data.dbpro73DataSet.View_TMRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:_73_data.dbpro73DataSet.View_staffsSRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:_73_data.dbpro73DataSet.View_patientsSRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:_73_data.dbpro73DataSet.View_ShiftsRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:_73_data.dbpro73DataSet.clinicRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:_73_data.dbpro73DataSet.IN_patientsRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:_73_data.dbpro73DataSet.medicationsRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:_73_data.dbpro73DataSet.patientsRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:_73_data.dbpro73DataSet.qualifacationRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:_73_data.dbpro73DataSet.requisitionsRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:_73_data.dbpro73DataSet.SearchRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:_73_data.dbpro73DataSet.shiftsRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:_73_data.dbpro73DataSet.staffsRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:_73_data.dbpro73DataSet.suppilersRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:_73_data.dbpro73DataSet.suppilesRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:_73_data.dbpro73DataSet.treatmentRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:_73_data.dbpro73DataSet.wardsRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:_73_data.dbpro73DataSet.workexpRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:_73_data.dbpro73DataSet.View_TMRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:_73_data.dbpro73DataSet.View_staffsSRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:_73_data.dbpro73DataSet.View_patientsSRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:_73_data.dbpro73DataSet.View_ShiftsRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:_73_data.dbpro73DataSetTableAdapters.clinicTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:_73_data.dbpro73DataSetTableAdapters.IN_patientsTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:_73_data.dbpro73DataSetTableAdapters.medicationsTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:_73_data.dbpro73DataSetTableAdapters.patientsTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:_73_data.dbpro73DataSetTableAdapters.qualifacationTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:_73_data.dbpro73DataSetTableAdapters.requisitionsTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:_73_data.dbpro73DataSetTableAdapters.SearchTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:_73_data.dbpro73DataSetTableAdapters.shiftsTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:_73_data.dbpro73DataSetTableAdapters.staffsTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:_73_data.dbpro73DataSetTableAdapters.suppilersTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:_73_data.dbpro73DataSetTableAdapters.suppilesTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:_73_data.dbpro73DataSetTableAdapters.treatmentTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:_73_data.dbpro73DataSetTableAdapters.wardsTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:_73_data.dbpro73DataSetTableAdapters.workexpTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:_73_data.dbpro73DataSetTableAdapters.View_TMTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:_73_data.dbpro73DataSetTableAdapters.View_staffsSTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:_73_data.dbpro73DataSetTableAdapters.View_patientsSTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:_73_data.dbpro73DataSetTableAdapters.View_ShiftsTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:_73_data.dbpro73DataSetTableAdapters.TableAdapterManager">
+<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+<member name="M:_73_data.dbpro73DataSetTableAdapters.TableAdapterManager.UpdateUpdatedRows(_73_data.dbpro73DataSet,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Update rows in top-down order.
+</summary>
+</member>
+<member name="M:_73_data.dbpro73DataSetTableAdapters.TableAdapterManager.UpdateInsertedRows(_73_data.dbpro73DataSet,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Insert rows in top-down order.
+</summary>
+</member>
+<member name="M:_73_data.dbpro73DataSetTableAdapters.TableAdapterManager.UpdateDeletedRows(_73_data.dbpro73DataSet,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Delete rows in bottom-up order.
+</summary>
+</member>
+<member name="M:_73_data.dbpro73DataSetTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member>
+<member name="M:_73_data.dbpro73DataSetTableAdapters.TableAdapterManager.UpdateAll(_73_data.dbpro73DataSet)">
+<summary>
+Update all changes to the dataset.
+</summary>
+</member>
+<member name="T:_73_data.dbpro73DataSetTableAdapters.TableAdapterManager.UpdateOrderOption">
+<summary>
+Update Order Option
+</summary>
+</member>
+<member name="T:_73_data.dbpro73DataSetTableAdapters.TableAdapterManager.SelfReferenceComparer">
+<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member>
+</members>
+</doc>
